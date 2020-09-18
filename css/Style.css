@@ -88,7 +88,7 @@ main .site-title .site-background{
     color: var(--white);
 }
 .feature-box .img-wid{
-    width:34.5rem;
+    width:34rem;
 }
 @media only screen and (max-width: 750px){
     .nav .toggle-collapse{
@@ -143,7 +143,7 @@ body {
         height: 30vh !important;;
     }
     .img-wid{
-        width: 35.2rem;
+        width: 35.5rem !important;
     }
     .feature-box__icon{
         width: 35rem;
