@@ -88,7 +88,7 @@ main .site-title .site-background{
     color: var(--white);
 }
 .feature-box .img-wid{
-    width:35.5rem;
+    width:34.5rem;
 }
 @media only screen and (max-width: 750px){
     .nav .toggle-collapse{
